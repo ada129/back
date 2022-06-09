@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8aca333a-a3e2-485d-ae91-8a83f46ecc36" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2A0dDZQEU2bQpMBj1BVuTDB7wnn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "14.4.0",
+    "javascript.nodejs.core.library.typings.version": "14.18.20",
+    "last_opened_file_path": "D:/WebstormProjects/untitled1",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aca333a-a3e2-485d-ae91-8a83f46ecc36" name="Changes" comment="" />
+      <created>1654150319533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654150319533</updated>
+      <workItem from="1654150321289" duration="9949000" />
+      <workItem from="1654164468090" duration="11959000" />
+      <workItem from="1654185340805" duration="8862000" />
+      <workItem from="1654197384731" duration="28000" />
+      <workItem from="1654463678020" duration="1149000" />
+      <workItem from="1654487436258" duration="5257000" />
+      <workItem from="1654500360123" duration="849000" />
+      <workItem from="1654501391586" duration="596000" />
+      <workItem from="1654506170830" duration="20000" />
+      <workItem from="1654511877497" duration="124000" />
+      <workItem from="1654519215511" duration="296000" />
+      <workItem from="1654524633291" duration="164000" />
+      <workItem from="1654525796028" duration="2886000" />
+      <workItem from="1654546461773" duration="2303000" />
+      <workItem from="1654580874527" duration="2089000" />
+      <workItem from="1654586796506" duration="1729000" />
+      <workItem from="1654592143988" duration="9473000" />
+      <workItem from="1654615147775" duration="2609000" />
+      <workItem from="1654625012121" duration="8042000" />
+      <workItem from="1654659041225" duration="8722000" />
+      <workItem from="1654674708712" duration="6825000" />
+      <workItem from="1654696505352" duration="3071000" />
+      <workItem from="1654708169384" duration="5930000" />
+      <workItem from="1654742954963" duration="282000" />
+      <workItem from="1654743358478" duration="20000" />
+      <workItem from="1654743556516" duration="1640000" />
+      <workItem from="1654751855420" duration="7443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
